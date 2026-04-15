@@ -1,6 +1,6 @@
 cambios en nuevarama
 hola buenas cambios desde el local
 hola buenas esto es desde el remoto
-cambios en ramaex
+cambios en ramaex CONFLICTO 
 conflicto probocado por ramex
 
